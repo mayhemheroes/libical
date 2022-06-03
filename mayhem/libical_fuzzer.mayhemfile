@@ -1,0 +1,4 @@
+project: PROJECT
+target: libical_fuzzer
+cmds:
+- cmd: /out/libical_fuzzer
